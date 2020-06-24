@@ -1,0 +1,23 @@
+.skills-container{
+    display: flex;
+    overflow: wrap;
+}
+
+.skill-card{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.skills{
+    margin: 30px;
+    overflow: wrap;
+}
+
+.skills-list{
+    list-style-type: none;
+    text-align: center;
+}
+
+.tools{
+margin-bottom: 2px;
+}
