@@ -1,0 +1,29 @@
+.nav{
+    background-color: lightblue;
+}
+
+.nav-link{
+    color: white;
+    font-weight: bold;
+}
+
+.jumbotron{
+    background-color: lightblue;
+}
+
+.header-title {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    /* padding: 0px 10px 0px 10px; */
+}
+
+.header-text {
+    text-align: center;
+    font-family: sans-serif;
+    padding: 0px 50px 0px 50px;
+}
+
+.social-link {
+    padding: 5px;
+}
